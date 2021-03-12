@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h4>Test Edit React App.js</h4>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
